@@ -1,0 +1,8 @@
+## Mac-Specific junk
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Excel temp files
+~$*.xlsx
