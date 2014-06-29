@@ -10,6 +10,14 @@ The purpose of this spreadsheet is to assist a Clash of Clans player in calculat
 * dashboard of which buildings and upgrades are currently possible
 * complete listing of build and upgrade costs in terms of resources and time
 
+Note that individual commits of the spreadsheet may contain test data in the fields (the release versions don't). To reset the spreadsheet:
+1. In the red box on the "Construction Dashboard" tab marked "Only modify fields in this red box":
+  1. Set the "Builder Huts" field to the number of builder huts you have.
+  2. Set the "Max" Option field to FALSE.
+  3. Clear all fields in the "Skip these buildings/upgrades in calculations" box.
+  4. Clear all values in the columns 1 through 12 for each Building or Upgrade type. You can do this by selecting the box, right-clicking, and then selecting "Clear Contents".
+2. On the "Army Dashboard" tab, clear all of the values in the "Quantity" column (surrounded by a red box).
+
 ## Contribution Guidelines
 
 At the present time, I have locked the spreadsheet to prevent anyone from creating derivatives with errors. If there is enough interest in improving the spreadsheet further, I will release an unlocked copy. I will also release an unlocked copy if I cease to maintain it.
@@ -54,3 +62,4 @@ Financial contributions are also appreciated, and can be sent via:
 [FeedAm]: http://feedingamerica.org/ways-to-give.aspx
 [UNFound]: https://secure.globalproblems-globalsolutions.org/site/Donation2?df_id=1200&1200.donation=form1&__utma=1.129088775.1316181574.1320187484.1320277972.13&__utmb=1.1.10.1320277972&__utmc=1&__utmx=-&__utmz=1.1319128056.8.8.utmcsr=unfoundation.org|utmccn=(referral)|utmcmd=referral|utmcct=/how-to-help/donate/global-citizens-council/&__utmv=-&__utmk=42342309
 [NPR]: http://www.npr.org/about-npr/187533209/major-gifts
+
